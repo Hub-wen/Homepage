@@ -6,7 +6,7 @@
 
 <details>
 <summary>样例</summary>
-![示例图片]([https://cdn.jsdelivr.net/gh/user/repo/image.png](https://cdn.jsdelivr.net/gh/Hub-wen/blogimage@main/img/202508250746826.png))
+![示例图片](https://cdn.jsdelivr.net/gh/Hub-wen/blogimage@main/img/202508250746826.png)
 
 ## 2024-9-19
 
