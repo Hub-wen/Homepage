@@ -6,10 +6,7 @@
 
 <details>
 <summary>样例</summary>
-<<<<<<< HEAD
 ![示例图片](https://cdn.jsdelivr.net/gh/Hub-wen/blogimage@main/img/202508250746826.png)
-=======
->>>>>>> 06e4947 (首次提交：多分类微调流程)
 
 ## 2024-9-19
 
