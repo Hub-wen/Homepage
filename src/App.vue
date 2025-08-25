@@ -91,7 +91,7 @@
         <vs-alert color="#00BCD4" type="gradient" v-model:hidden-content="aboutHidden">
           <template #title>本站基于</template>
 
-          <p>你可以从这里访问 <b>我的博客、GitHub、哔哩哔哩、网易云歌单</b> 以及给我发 <b>邮件</b> ！</p>
+          <p>你可以从这里访问 <b>我的博客、我的文档知识库、GitHub、哔哩哔哩</b> 以及给我发 <b>邮件</b> ！</p>
           <p>主页使用了
             <b><a href="https://quenan.cn/" target="_blank">鹊楠</a></b>
             主页，感谢awa
