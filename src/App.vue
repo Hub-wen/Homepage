@@ -45,7 +45,7 @@
           <i class="iconfont icon-about"></i>
 
           <template #animate>
-            关于
+            About
           </template>
         </vs-button>
       </div>
