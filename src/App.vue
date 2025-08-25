@@ -64,6 +64,30 @@
 
       <div class="con-content">
 
+        <vs-alert color="#FE8599" type="gradient" v-model:hidden-content="techHidden">
+          <template #title>技术栈</template>
+          <p>本站基于以下技术搭建和以下服务商部署</p>
+
+          <vs-avatar-group class="aboutAva" float max="8">
+
+            <vs-tooltip placement="top" v-for="i in avaters" :key="i.content">
+              <vs-avatar :color="i.color">
+                <i :class="`iconfont ${i.icon}`"></i>
+              </vs-avatar>
+
+              <template #content>{{ i.content }}</template>
+            </vs-tooltip>
+
+            <vs-tooltip placement="top">
+              <vs-avatar color="#FF6D1A">
+                初
+              </vs-avatar>
+
+              <template #content>初七云cdn</template>
+            </vs-tooltip>
+
+          </vs-avatar-group>
+        </vs-alert>
         <vs-alert color="#00BCD4" type="gradient" v-model:hidden-content="aboutHidden">
           <template #title>本站基于</template>
 
@@ -102,10 +126,10 @@
           </div>
 
           <div class="footerBtn">
-            <vs-button color="#ff0000ff" @click="versions" type="border">
+            <vs-button color="#fe8599" @click="versions" type="border">
               当前版本
             </vs-button>
-            <vs-button color="#ff0000ff" @click="active = false">
+            <vs-button color="#fe8599" @click="active = false">
               知道啦
             </vs-button>
           </div>
@@ -132,9 +156,15 @@ export default {
       btnList: [
         {
           icon: 'icon-blogger',
-          animate: '博客',
+          animate: 'Blog',
           color: '#fe8599',
           href: 'https://blog.aldebaran.cc'
+        },
+        {
+          icon: 'icon-docs',
+          animate: 'Docs',
+          color: '#D81E06',
+          href: 'https://docs.aldebaran.cc'
         },
         {
           icon: 'icon-Githubzhanghao',
@@ -159,7 +189,7 @@ export default {
       avaters: [
         {
           color: '#43B884',
-          icon: 'icon-vue',
+          icon: 'icon-Vue',
           content: 'Vue3'
         },
         {
@@ -184,7 +214,7 @@ export default {
         },
         {
           color: '#000',
-          icon: 'icon-github',
+          icon: 'icon-Githubzhanghao',
           content: 'Github'
         }
       ],
@@ -233,6 +263,6 @@ export default {
 </script>
 
 <style lang="less">
-@import url(//at.alicdn.com/t/c/font_4003779_k4bvsymp2l.css);
+@import url(//at.alicdn.com/t/c/font_4003779_0zqyp858u5jn.css);
 /* 阿里巴巴图标库 */
 </style>
