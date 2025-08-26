@@ -94,8 +94,8 @@
           <p>你可以从这里访问 
             <b>
               <a href="https://blog.aldebaran.cc/" target="_blank">我的博客</a>、<a href="https://docs.aldebaran.cc/" target="_blank">文档知识库</a>、<a href="https://github.com/Hub-wen" target="_blank">GitHub</a>、<a href="https://nav.aldebaran.cc/" target="_blank">导航</a>
-            </b> 以及在 
-            <b>哔哩哔哩</b> 及时关注我！
+            </b> 以及来 
+            <b><a href="https://space.bilibili.com/694124492" target="_blank">哔哩哔哩</a></b> 及时关注我！
           </p>
           <p>主页使用了
             <b><a href="https://quenan.cn/" target="_blank">鹊楠</a></b>
