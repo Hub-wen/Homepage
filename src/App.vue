@@ -179,10 +179,10 @@ export default {
           href: 'https://space.bilibili.com/694124492'
         },
         {
-          icon: 'icon-E-mail',
-          animate: 'E-mail',
+          icon: 'icon-daohang',
+          animate: 'link',
           color: '#FACB1E',
-          href: 'mailto:3159079382@qq.com'
+          href: 'http://nav.aldebaran.cc'
         },
 
       ],
@@ -263,6 +263,6 @@ export default {
 </script>
 
 <style lang="less">
-@import url(//at.alicdn.com/t/c/font_4003779_0zqyp858u5jn.css);
+@import url(//at.alicdn.com/t/c/font_4003779_a155euzpq3f.css);
 /* 阿里巴巴图标库 */
 </style>
