@@ -6,7 +6,10 @@
 
 <details>
 <summary>样例</summary>
-![示例图片](https://cdn.jsdelivr.net/gh/Hub-wen/blogimage@main/img/202508250746826.png)
+
+<a href="https://aldebaran.cc">
+<img src="https://cdn.jsdelivr.net/gh/Hub-wen/blogimage@main/img/202508250746826.png" alt="示例图片" width="300" height="200">
+</a>
 
 ## 2024-9-19
 
