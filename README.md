@@ -15,6 +15,9 @@
 <img src="https://cdn.jsdelivr.net/gh/Hub-wen/blogimage@main/img/202508250746826.png" alt="示例图片" >
 </a>
 
+<details>
+<summary>更新</summary>
+
 ## 2024-9-19
 
 1. 添加加载动画
