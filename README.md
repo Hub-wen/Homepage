@@ -1,6 +1,7 @@
 # 基于 Vue3 写的个人主页
 
-# 作者：[鹊楠](quannan.cn) 
+# 作者：[鹊楠](https://quenan.cn/) 
+
 # 源地址：<https://github.com/QNquenan/homepage-for-vue3>
 
 # 开源协议（MIT）使用项目需要保留原仓库地址🥲🥲
