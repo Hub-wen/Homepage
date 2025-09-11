@@ -13,7 +13,7 @@
     <div class="main" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :duration="1000">
       <div class="info">
         <div class="header">
-          <img src="./public/头像.jpg" alt="头像">
+          <img src="/src/头像.jpg" alt="头像">
         </div>
 
         <div class="infoText">
