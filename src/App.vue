@@ -13,7 +13,7 @@
     <div class="main" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :duration="1000">
       <div class="info">
         <div class="header">
-          <img src="https://cdn.jsdelivr.net/gh/Hub-wen/blogimage@main/img/202508241846501.jpg" alt="">
+          <img src="./public/头像.jpg" alt="头像">
         </div>
 
         <div class="infoText">
