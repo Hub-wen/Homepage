@@ -18,7 +18,7 @@
 
         <div class="infoText">
           <h1>Hi,</h1>
-          <h1>I'm <span class="qn">静燃</span></h1>
+          <h1>I'm <span class="qn">Aldebaran</span></h1>
         </div>
       </div>
 
